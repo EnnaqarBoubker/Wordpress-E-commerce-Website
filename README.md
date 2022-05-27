@@ -1,11 +1,9 @@
 # Wordpress-E-commerce-Website
-
- I created an e-commerce site with WordPress called "e-commerce" to sell clothes
  
- 
+ the users :
  
  | username      | mail               | pass                      | 
  | ------------- | -------------------|---------------------------| 
- | boubker       | boubker@gmail.com  | WMl&U))CjfduiF)L&IrvnWf&  | 
- | hassan        | hassan@gmail.com   | 8mr(Dvs7BJ)uTpc(pfzp6mck  | 
- | sadiq        | sadiq@gmail.com     | U9J!@NhHcH46$nPnIktRQpGv  |
+ | boubker       | boubker@gmail.com  | Du@Z9XrTrUs5NmArMSho%1j1  | 
+ | hassan        | hassan@gmail.com   | lnGTT@!jFA5Dexv0&5GS@VDR  | 
+ | sadiq        | sadiq@gmail.com     | ^oE%ZdinSlpiPFbHWxreI52i  |
